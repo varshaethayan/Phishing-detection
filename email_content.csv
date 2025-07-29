@@ -1,0 +1,335 @@
+from,subject,body,label
+alerts@google.com,Storage Almost Full,You’re reaching your Google Drive storage limit...,0
+support@amazon.com,Your Order Has Been Shipped,Your order #123456 has been shipped...,0
+update@netflix.com,Account Suspended Action Required,We've noticed suspicious activity on your Netflix account.,1
+it-support@university.edu,Password Expiry Notice,Your university password will expire in 2 days. Update now.,0
+noreply@paypal.com,Unusual Login Attempt,We detected a login attempt from an unknown device. Confirm your identity.,1
+security@yourbank.com,Account Locked,Your bank account has been temporarily locked. Click to unlock.,1
+care@jio.com,Data Usage Alert,You’ve used 90% of your daily data. Speed will reduce after 1.5GB.,0
+noreply@zomato.com,Your Order is Out for Delivery,Your order will reach you shortly. Track it live.,0
+info@flipkart.com,Order Confirmation,Thanks for shopping with us. Your order ID is 987654.,0
+security@randomsite.com,Reset Your Password,Your password has been reset. Contact support if this wasn’t you.,1
+account@apple.com,Sign-in Attempt,A new login was detected on your Apple ID.,1
+delivery@swiggy.com,Enjoy Your Meal!,Your food is on the way. Track it in the app.,0
+newsletter@linkedin.com,See Who Viewed Your Profile,Your profile was viewed 5 times this week.,0
+noreply@instagram.com,Suspicious Login,We've detected an unusual login. Check now.,1
+offers@airasia.com,Flat 30% Off on Flights,Book your next trip with a discount. Limited time only!,0
+billing@hotstar.com,Payment Failed,Your last payment could not be processed. Retry now.,1
+connect@ola.com,Your Ride is Confirmed,Your driver will arrive at your pickup location shortly.,0
+info@byjus.com,New Course Alert,Check out our latest NEET & JEE preparation courses.,0
+message@microsoft.com,Outlook Account Verification,Click below to verify your account.,1
+notice@icicibank.com,Credit Card Bill Due,Your payment is due on 5th Aug. Avoid late fee.,0
+noreply@youtube.com,New Login Notification,Someone signed in to your YouTube account.,1
+sales@meesho.com,Order Placed Successfully,Your Meesho order has been successfully placed.,0
+notify@cred.com,Payment Reminder,Your credit card payment is due in 3 days.,0
+admin@quora.com,New Answer to Your Question,Someone answered your question on Quora.,0
+no-reply@dropbox.com,Suspicious Activity Detected,We noticed something unusual in your Dropbox login.,1
+alerts@hdfcbank.com,Transaction Alert,"₹5,000 debited from your account ending 1234.",0
+verify@amazn-secure.com,Confirm Account Now,Amazon requires immediate confirmation of your account.,1
+support@mygov.in,Vaccination Certificate,Your certificate is ready. Download from the link.,0
+mail@dominos.in,Your Pizza is Baking,Your order will reach you in 30 minutes.,0
+info@timesofindia.com,Morning Briefing,Here's your daily dose of top news.,0
+team@swiggy.com,Rate Your Order,Let us know how your last meal was.,0
+fake@paypal-alert.com,Urgent: Account Verification Needed,Your account will be suspended. Verify now!,1
+support@credsecure.com,Payment Failed,Your recent credit card payment failed. Click here.,1
+jobs@internshala.com,New Internship Matches,We found internships you may like.,0
+info@zara.com,Limited Time Sale,Get flat 40% off across stores and online.,0
+support@aadhar.gov.in,Update Your Aadhaar,Keep your Aadhaar details up-to-date.,0
+secure@facebook-mail.com,New Device Login,A login from a new device was detected.,1
+noreply@nykaa.com,Your Order has Shipped,Track your beauty order with the link below.,0
+billing@primevideo.com,Subscription Renewal Failed,Update payment info to continue your service.,1
+careers@tcs.com,Interview Schedule,Your interview is scheduled for 10th Aug.,0
+notice@epfo.gov.in,UAN KYC Update Required,Your PF account needs updated KYC details.,0
+alerts@amazon.in,Refund Processed,"Refund of ₹1,299 has been initiated to your account.",0
+unknown@googl-security.com,Account Hacked Alert,Your account has been compromised. Act now!,1
+info@makemytrip.com,Booking Confirmed,Your hotel booking at Goa is confirmed.,0
+hr@wipro.com,Job Application Update,Your application has moved to the next round.,0
+contact@irctc.com,Ticket Confirmed,Your train ticket to Delhi has been confirmed.,0
+support@kaspersky.com,License Expired,Renew your antivirus license to stay protected.,0
+secure@citibank.com,Suspicious Transaction Blocked,A suspicious payment attempt was blocked.,1
+info@udemy.com,New Course on AI,Learn AI from experts. Enroll now!,0
+noreply@coursera.org,Course Completed,Congrats! You've completed the course 'Intro to Machine Learning'.,0
+support@swiggy.in,Order Delivered,Hope you enjoyed your meal from Biryani House!,0
+alerts@phonepe.com,Transaction Alert,₹350 sent to Rahul Sharma via UPI.,0
+info@udemy.com,New Course Suggestion,Advance your skills with 'Java Programming Masterclass'.,0
+news@reuters.com,World News Digest,Catch up on global affairs in 5 minutes.,0
+support@adobe.com,Your Subscription is Active,You're now subscribed to Adobe Creative Cloud.,0
+noreply@airtel.in,Bill Payment Reminder,Your broadband bill is due on Aug 5. Pay ₹999 to avoid disconnection.,0
+updates@amazon.in,Shipment Delivered,Your order for 'Echo Dot' has been delivered.,0
+alerts@netflix.com,New Season Released,'Stranger Things' Season 5 is now streaming.,0
+offers@flipkart.com,Festival Sale Starts Today,Grab up to 70% off across categories in the Big Billion Days sale!,0
+noreply@vfsvisa.com,Appointment Confirmation,Your biometric appointment for UK visa is confirmed.,0
+info@paytm.com,Wallet Top-up Successful,"Your wallet was recharged with ₹1,000 using HDFC Bank.",0
+notifications@slack.com,New Message from Team,You have unread messages in #project-alpha.,0
+contact@medium.com,New Story Published,Sarah just posted a story: 'Why I left my tech job to travel the world.',0
+support@zomato.com,Table Reservation Confirmed,Your table at Little Italy is reserved for 7 PM.,0
+mail@canva.com,Design Shared with You,John shared a new Canva design: Resume Draft,0
+hello@mi.com,New Device Launch,Introducing Redmi Note 14 Pro – Pre-orders open!,0
+no-reply@spotify.com,Your Subscription is Active,You're now a Premium member – Enjoy ad-free music!,0
+info@irctc.co.in,Ticket Booking Confirmation,Your train ticket from Chennai to Bangalore is confirmed.,0
+notifications@hdfcbank.com,Credit Card Bill,"Your statement for July is ₹12,456. Due on Aug 10.",0
+noreply@skyscanner.com,Flight Price Alert,Fares for Chennai to Delhi have dropped by 20%.,0
+support@flipkart.com,Return Approved,Your return request for 'Noise Smartwatch' is approved.,0
+mail@olacabs.com,Ride Receipt,Your ride with driver Ravi has been completed. Fare: ₹230.,0
+hello@cred.club,Reward Unlocked,You've unlocked 2 new scratch cards. Claim now!,0
+offers@dominos.in,Weekend Deal,"Buy 1 Pizza, Get 1 Free this Saturday & Sunday only.",0
+updates@hackerrank.com,New Challenge Awaits,Solve the latest Data Structures practice problem!,0
+care@axisbank.com,Transaction Alert,"₹7,500 credited to your account ending 1234.",0
+info@nykaa.com,Your Order is Shipped,Nykaa order #1002457 has been dispatched via Bluedart.,0
+alerts@oneplus.com,Software Update Available,OxygenOS 14 is ready to install on your device.,0
+mail@upgrad.com,Live Class Reminder,Your 'Full Stack Dev' session starts at 6:30 PM today.,0
+offers@makemytrip.com,Limited Time Hotel Deal,Flat 40% OFF on top-rated hotels in Goa.,0
+mail@ajio.com,Cart Reminder,Still thinking? Items in your cart are almost gone!,0
+support@instamojo.com,Payment Received,"You've received ₹2,000 from 'TheDesignShop' via Instamojo.",0
+alerts@indianexpress.com,Top Headlines Today,Stay updated with today's most important stories.,0
+info@olaelectric.com,Delivery Update,Your S1 Pro delivery has been rescheduled to 10 Aug.,0
+no-reply@hotstar.com,Watchlist Update,Episode 9 of 'Special Ops' is now available.,0
+updates@bookmyshow.com,Upcoming Movie Alert,'Pushpa 2' releasing this Independence Day. Bookings open soon!,0
+alerts@zomato.com,Your Order is On The Way,Your food from 'KFC' will arrive by 8:15 PM.,0
+care@jio.com,Data Usage Alert,You’ve used 90% of your daily data. Speed will reduce after 1.5GB.,0
+noreply@coursera.org,Course Completion Certificate,Congrats! You’ve completed 'Introduction to Python'.,0
+no-reply@canva.com,Your Design is Saved,Your latest Instagram Post has been saved to 'Social Media' folder.,0
+hello@notion.so,Weekly Digest,Here's what you accomplished this week – Keep it up!,0
+support@dream11.com,Withdrawal Processed,"₹1,000 has been transferred to your UPI-linked bank account.",0
+no-reply@linkedin.com,New Connection Request,Priya R has invited you to connect.,0
+support@swiggy.com,Refund Initiated,Your refund of ₹145 for Order #223465 has been initiated.,0
+mail@instacart.com,Groceries Delivered,Your order has been successfully delivered to your doorstep.,0
+updates@byjus.com,Free Class Invite,Join our free Science class at 7 PM today!,0
+alerts@oyo.in,Hotel Booking Confirmed,Your stay at 'OYO Grand Palace' is confirmed for 12 Aug – 14 Aug.,0
+noreply@udemy.com,Sale Ends Tonight,1000+ top-rated courses at ₹449 – Enroll before midnight!,0
+feedback@flipkart.com,How Was Your Experience?,Rate your recent purchase of 'HP Wireless Mouse'.,0
+no-reply@cred.club,Payment Reminder,"Your HDFC card bill of ₹5,678 is due in 3 days. Pay now and earn rewards.",0
+updates@razorpay.com,Invoice Paid,Invoice #IN2365 has been marked as PAID.,0
+mail@tneb.in,Electricity Bill Alert,"Your bill for July is ₹1,230. Due date: Aug 5.",0
+news@thehindu.co.in,Evening Briefing,Top 5 stories you need to know before bed.,0
+alert@meesho.com,Delivery Scheduled,Your order will be delivered by 30 July. Track it here.,0
+notify@ixigo.com,Bus Ticket Confirmed,Your seat on Chennai to Coimbatore AC sleeper bus is confirmed.,0
+no-reply@amazon.in,Deal of the Day,Up to 60% off on Electronics – Today only!,0
+team@hotstar.com,Subscription Expiring Soon,Your Hotstar plan ends in 3 days. Renew now for uninterrupted streaming.,0
+service@irctc.co.in,Train Ticket Confirmed,Your ticket for Train #12623 (MAS – SBC) is confirmed.,0
+updates@mobikwik.com,Cashback Received,₹75 cashback has been added to your wallet.,0
+hello@khanacademy.org,New Lesson Available,Try our new video on 'Algebra Basics'. Start learning today!,0
+contact@airtel.in,Recharge Successful,₹299 prepaid pack has been successfully recharged. Validity: 28 days.,0
+noreply@spotify.com,Your 2024 Wrapped is Here!,Discover your most-played songs and top artists of the year.,0
+info@netmeds.com,Prescription Delivered,Your medicine order #ND12439 has been delivered.,0
+notify@bookmyshow.com,Event Reminder,'Arijit Singh Live' concert is tomorrow at 6:30 PM.,0
+alerts@yatra.com,Flight Delayed,Your flight AI 261 to Mumbai is delayed by 45 mins.,0
+service@olacabs.com,Invoice for Your Ride,Your ride fare from Chennai Central to Tambaram is ₹289.,0
+no-reply@oneplus.in,Service Appointment Confirmed,Your OnePlus service visit is booked for July 30 at 2 PM.,0
+hello@notion.so,Tip of the Week,"Use '/' to quickly add to-do lists, calendars, and more.",0
+team@upstox.com,KYC Verified,Your documents have been verified successfully. You're all set to trade.,0
+updates@zoomcar.com,Booking Confirmation,Your car booking for 1 Aug (Hyundai i20) is confirmed. Pickup at 10 AM.,0
+notifications@cricbuzz.com,Live Match Alert,IND vs AUS – India needs 42 runs from 24 balls. Watch Live.,0
+care@hp.com,Product Registration Confirmed,Your HP Pavilion laptop has been registered.,0
+sales@mi.com,Flash Sale Alert,Redmi Note 13 goes on sale at 12 PM today. Hurry!,0
+noreply@swiggy.com,Your Order Feedback,How was your recent order from Domino’s? Rate it now.,0
+security@netflix‑support.com,Account Locked,Your Netflix account has been locked due to suspicious activity. Verify now at http://verify‑netflix.com,1
+helpdesk@yourbanksecure.com,Immediate Verification Required,We've detected unauthorized transactions. Login at https://secure‑banking‑verify.com,1
+notifications@upi‑india.in,Transaction Declined,Your UPI payment failed. Click here to reauthorize: http://upi‑india‑auth.com,1
+support@applejs.com,Apple ID Suspension Warning,Your Apple ID is suspended. Reactivate now at http://apple‑reactivate.com,1
+alerts@amazon‑billing.com,Unusual Order Placed,An expensive order was placed. Confirm or cancel here: http://amazon‑verify‑order.com,1
+admin@office365‑secure.com,Office 365 Password Expired,Your password expired. Reset here: https://office365‑reset.com,1
+team@whatsapp‑secure.com,New Message Login Required,Verify your number: http://whatsapp‑security‑login.com,1
+notifications@paypal‑service.com,Payment Held for Review,Your account is restricted. Login to remove hold: https://paypal‑fake‑secure.com,1
+support@facebook‑account.com,Secure Your Account,We noticed a login from a new device. Verify: http://facebook‑secure-login.com,1
+service@google‑accounts.com,Tap to Unlock Gmail,Unusual activity flagged. Tap to unlock: https://google‑account‑check.com,1
+security@netflix-billing.com,Payment Failed,Update card at http://netflix-payhelp.com,1
+alerts@paypal-update.com,Unauthorized Access Detected,Confirm your account at http://secure-paypalverify.com,1
+admin@icloud-support.com,Storage Full Warning,Upgrade or risk data loss: http://icloud-expansion.com,1
+service@amazon-gift.com,You’ve won a gift card!,Claim ₹500 Amazon gift card at http://amazon-giftclaim.in,1
+it-help@companyadmin.net,Mandatory Password Reset,Click to reset: http://intranet-auth-update.com,1
+careers@hdfcsecure.net,Resume Shortlisted,Pay the interview fee at http://hdfc-jobs-pay.in,1
+billing@spotify-check.com,Subscription Canceled,Resubscribe here: http://spotify-renewal.com,1
+update@zoom-settings.com,New Security Update,Enable features at http://zoom-update-center.com,1
+contact@aadhar-verify.gov.in,Aadhar Suspension Notice,Update KYC now at http://aadhar-verification.in,1
+info@flipkart-promo.in,"Claim ₹1,000 Shopping Coupon",Redeem now: http://flipkart-couponclaim.in,1
+no-reply@cred.club,Payment Reminder,"Your HDFC card bill of ₹5,678 is due in 3 days. Pay now and earn rewards.",0
+updates@razorpay.com,Invoice Paid,Invoice #IN2365 has been marked as PAID.,0
+mail@tneb.in,Electricity Bill Alert,"Your bill for July is ₹1,230. Due date: Aug 5.",0
+news@thehindu.co.in,Evening Briefing,Top 5 stories you need to know before bed.,0
+alert@meesho.com,Delivery Scheduled,Your order will be delivered by 30 July. Track it here.,0
+notify@ixigo.com,Bus Ticket Confirmed,Your seat on Chennai to Coimbatore AC sleeper bus is confirmed.,0
+no-reply@amazon.in,Deal of the Day,Up to 60% off on Electronics – Today only!,0
+team@hotstar.com,Subscription Expiring Soon,Your Hotstar plan ends in 3 days. Renew now for uninterrupted streaming.,0
+service@irctc.co.in,Train Ticket Confirmed,Your ticket for Train #12623 (MAS – SBC) is confirmed.,0
+updates@mobikwik.com,Cashback Received,₹75 cashback has been added to your wallet.,0
+hello@khanacademy.org,New Lesson Available,Try our new video on 'Algebra Basics'. Start learning today!,0
+contact@airtel.in,Recharge Successful,₹299 prepaid pack has been successfully recharged. Validity: 28 days.,0
+noreply@spotify.com,Your 2024 Wrapped is Here!,Discover your most-played songs and top artists of the year.,0
+info@netmeds.com,Prescription Delivered,Your medicine order #ND12439 has been delivered.,0
+notify@bookmyshow.com,Event Reminder,'Arijit Singh Live' concert is tomorrow at 6:30 PM.,0
+alerts@yatra.com,Flight Delayed,Your flight AI 261 to Mumbai is delayed by 45 mins.,0
+service@olacabs.com,Invoice for Your Ride,Your ride fare from Chennai Central to Tambaram is ₹289.,0
+no-reply@oneplus.in,Service Appointment Confirmed,Your OnePlus service visit is booked for July 30 at 2 PM.,0
+hello@notion.so,Tip of the Week,"Use '/' to quickly add to-do lists, calendars, and more.",0
+team@upstox.com,KYC Verified,Your documents have been verified successfully. You're all set to trade.,0
+updates@zoomcar.com,Booking Confirmation,Your car booking for 1 Aug (Hyundai i20) is confirmed. Pickup at 10 AM.,0
+notifications@cricbuzz.com,Live Match Alert,IND vs AUS – India needs 42 runs from 24 balls. Watch Live.,0
+care@hp.com,Product Registration Confirmed,Your HP Pavilion laptop has been registered.,0
+sales@mi.com,Flash Sale Alert,Redmi Note 13 goes on sale at 12 PM today. Hurry!,0
+noreply@swiggy.com,Your Order Feedback,How was your recent order from Domino’s? Rate it now.,0
+security@netflix‑support.com,Account Locked,Your Netflix account has been locked due to suspicious activity. Verify now at http://verify‑netflix.com,1
+helpdesk@yourbanksecure.com,Immediate Verification Required,We've detected unauthorized transactions. Login with your credentials to confirm identity at https://secure‑banking‑verify.com,1
+notifications@upi‑india.in,Transaction Declined,Your UPI payment failed. Click here to reauthorize: http://upi‑india‑auth.com,1
+support@applejs.com,Apple ID Suspension Warning,Your Apple ID is suspended. Reactivate now at http://apple‑reactivate.com,1
+alerts@amazon‑billing.com,Unusual Order Placed,An expensive order was placed. Confirm or cancel here: http://amazon‑verify‑order.com,1
+admin@office365‑secure.com,Office 365 Password Expired,Your password expired. Reset here: https://office365‑reset.com,1
+team@whatsapp‑secure.com,New Message Login Required,Please verify your phone number to continue using WhatsApp: http://whatsapp‑security‑login.com,1
+notifications@paypal‑service.com,Payment Held for Review,Your account is restricted. Login to remove hold: https://paypal‑fake‑secure.com,1
+support@facebook‑account.com,Secure Your Account,We noticed a login from a new device. Verify to prevent lockout: http://facebook‑secure-login.com,1
+service@google‑accounts.com,Tap to Unlock Gmail,Unusual activity flagged. Tap here to unlock access: https://google‑account‑check.com,1
+security@netflix-billing.com,Payment Failed,Your latest payment failed. Update your card at http://netflix-payhelp.com,1
+alerts@paypal-update.com,Unauthorized Access Detected,We've noticed suspicious login attempts. Confirm your account at http://secure-paypalverify.com,1
+admin@icloud-support.com,Storage Full Warning,Your iCloud storage is full. Upgrade or risk data loss: http://icloud-expansion.com,1
+service@amazon-gift.com,You’ve won a gift card!,Claim your free ₹500 Amazon gift card now at http://amazon-giftclaim.in,1
+it-help@companyadmin.net,Mandatory Password Reset,Your corporate password must be reset. Click here: http://intranet-auth-update.com,1
+careers@hdfcsecure.net,Resume Shortlisted,"Your resume was selected. To proceed, pay the interview fee at http://hdfc-jobs-pay.in",1
+billing@spotify-check.com,Subscription Canceled,Your Spotify Premium subscription has been canceled. Resubscribe here: http://spotify-renewal.com,1
+update@zoom-settings.com,New Security Update,Enable latest security features at http://zoom-update-center.com,1
+contact@aadhar-verify.gov.in,Aadhar Suspension Notice,Your Aadhar will be deactivated. Update KYC now at http://aadhar-verification.in,1
+info@flipkart-promo.in,"Claim ₹1,000 Shopping Coupon",You’ve been selected for a Flipkart promo. Redeem now: http://flipkart-couponclaim.in,1
+notice@itdept-gov.in,Your IT Return is Under Audit,Review report: http://incometax-auditportal.net,1
+rewards@cred-walletbonus.org,"₹1,000 CRED Wallet Reward",Claim instantly: http://cred-rewardcenter.co,1
+security@googlemailnotice.com,Suspicious Activity Detected,Login to verify your Google account: http://google-alert-login.in,1
+office@delhipolice-alert.org,FIR Registered on Your Name,Check details: http://delhi-police-notice.in,1
+verify@banking-upiapp.com,UPI PIN Blocked,Reactivate with this link: http://upi-servicefix.co,1
+alert@bajajfinserv-loan.org,Pre-approved Loan ₹5 Lakh,Click to proceed: http://bajajloan-offer.in,1
+promo@airindia-miles.in,"Free 20,000 Air Miles",Claim now: http://airindia-rewardpromo.org,1
+support@linkedin-job.in,You’re Shortlisted – Top MNC,Confirm availability: http://linkedin-careerportal.in,1
+care@mobikwikbonus.org,₹700 Wallet Bonus – Mobikwik,Activate here: http://mobikwik-cashbackoffer.in,1
+notice@cbse-certverify.in,CBSE Certificate Verification Required,Submit marksheet: http://cbse-digicertlink.org,1
+otp@flipkart-verification.com,Flipkart Verification Code,Use OTP 849201 to confirm delivery,1
+admin@aadhar-verification.in,Aadhaar Update Required,Your Aadhaar is pending update: http://aadhar-updateportal.in,1
+alerts@hdfc-banknotify.org,HDFC Account Temporarily Blocked,Verify KYC: http://hdfc-verificationlink.org,1
+billing@amazon.in,Your Amazon Bill is Ready,View invoice for your recent order,0
+newsletter@zomato.com,New Restaurants Near You,Try trending spots this week,0
+support@phonepe.com,Payment Received,₹150 has been received in your PhonePe wallet,0
+notifications@bookmyshow.com,Your Movie Booking is Confirmed,Enjoy your movie on Saturday at 6:00 PM,0
+updates@netflix.com,New Shows You’ll Love,Check out this week’s top picks,0
+delivery@swiggy.in,Your Swiggy Order Has Been Delivered,Rate your experience,0
+noreply@zoom.us,Meeting Scheduled: 3 PM Today,Join Zoom Meeting link inside,0
+mailer@nykaa.com,Flat 50% Sale on Beauty Products,Hurry! Limited time offers,0
+team@coursera.org,Your Certificate is Ready,Download your completion certificate,0
+noreply@passportindia.gov.in,Passport Appointment Confirmed,Reach PSK on time,0
+care@oyo.in,Your Hotel Booking is Confirmed,Welcome to OYO!,0
+updates@swiggy.com,₹100 OFF on Your Next Order,Use Code: SAVE100,0
+jobportal@monsterindia.com,5 Companies Viewed Your Profile,Apply now,0
+deals@flipkart.com,Today’s Deal of the Day,Big discounts on electronics,0
+service@axisbank.com,Bank Statement – July 2025,View PDF attached,0
+delivery@meesho.com,Your Meesho Parcel is Out for Delivery,Track live location,0
+billing@hotstar.com,Your Subscription Renewal Confirmed,Plan valid till Aug 2025,0
+care@paytm.com,Add Money to Wallet & Get ₹50 Cashback,Limited offer only,0
+jobs@instahyre.com,Software Developer Openings,Get hired by top startups,0
+hello@udemy.com,New Courses in Data Science,"Learn Python, ML, and more",0
+notice@irctc.co.in,Train Cancelled – Full Refund Initiated,Refund will reflect within 3–5 days,0
+notifications@myntra.com,Your Return is Picked Up,Refund will be processed soon,0
+noreply@redbus.in,Trip Reminder – Chennai to Bangalore,Bus arrives at 8:00 PM,0
+team@geeksforgeeks.org,DSA Bootcamp – Registration Successful,Class starts Aug 1,0
+alerts@cred.com,Pay Your Credit Card Bill Early,Avoid interest by paying before Aug 3,0
+support@1mg.com,Order Confirmed – Vitamin D3 Tablets,Expected delivery: 2 days,0
+info@zoomcar.com,Your Booking is Confirmed,Car will be available at 9:00 AM,0
+mailer@byjus.com,Free Mock Test for NEET,Attempt before July 30,0
+team@internshala.com,Apply to Remote Internships,Explore new opportunities,0
+team@kaggle.com,You’re in Top 10% in Recent Competition,Great job on the Titanic dataset!,0
+welcome@chatgpt.com,Welcome to ChatGPT,Start exploring AI conversations,0
+no-reply@couriertrack.in,Package Delivered,Received at doorstep,0
+deals@reliancedigital.in,Pre-order Samsung Galaxy S26,Get exclusive benefits,0
+info@naukri.com,Jobs Matching Your Resume,"Data Analyst, Python Developer roles",0
+noreply@canva.com,New Templates Available,Explore trending designs,0
+update@razorpay.com,Payout Successful,"₹2,000 transferred to your account",0
+alerts@uber.com,Your Uber Arrives in 5 Minutes,Track location,0
+service@paypal.com,Your Account is Limited,We noticed unusual activity in your account. Please verify your identity.,1
+alerts@apple.com,Verify Your Apple ID,Your Apple ID has been locked for security reasons. Click here to unlock it.,1
+billing@netflix.com,Payment Issue,We're having trouble with your current billing information. Update now to avoid interruption.,1
+noreply@bankofamerica.com,Urgent Account Notification,Your account has been suspended. Login immediately to resolve.,1
+security@outlook.com,New Sign-In Detected,Someone signed in to your account from a new device.,0
+updates@bookmyshow.com,Your Booking Confirmed,You've booked 2 tickets for 'Oppenheimer' at 6:15 PM. Enjoy the show!,0
+care@jio.com,Data Usage Alert,You’ve used 90% of your daily data. Speed will reduce after 1.5GB.,0
+noreply@flipkart.com,Delivery Scheduled,Your package will be delivered today between 10AM–2PM.,0
+info@zoho.in,Thank you for registering,Welcome to Zoho. Your account has been successfully created.,0
+no-reply@irctc.co.in,Your Train Ticket,Your PNR 4567890123 is confirmed for 2 passengers.,0
+accounts@facebookmail.com,Confirm Your Identity,We noticed suspicious activity. Please confirm your identity by clicking here.,1
+noreply@github.com,New Login to Your Account,A login was detected from a new device. Was this you?,0
+help@airtel.in,Your Recharge is Successful,You've successfully recharged ₹199. Thank you for using Airtel.,0
+info@icicibank.com,Transaction Alert,"₹5,000 has been debited from your A/C. If not you, call us immediately.",0
+contact@kfc.com,Special Offer Just for You,Get 2 Zinger Burgers at ₹99 only! Valid today.,0
+support@pizzahut.co.in,Your Order is on the Way,Your order #PH324 has been dispatched. Track your delivery.,0
+update@linkedin.com,5 New Profile Views,See who viewed your profile this week.,0
+customercare@hdfcbank.com,Important: KYC Pending,Update your KYC details to avoid service interruption.,1
+no-reply@paytm.com,Cashback Credited,₹30 cashback added to your Paytm Wallet. Enjoy shopping!,0
+noreply@swiggy.in,Order Delivered,Your order from Burger King has been delivered. Please rate us.,0
+help@pizzahutfreemeal.in,Pizza Hut Free Meal Voucher Inside,Redeem now: http://pizzahut-offerclaim.in,1
+contact@aadhar-updateonline.in,Aadhaar Photo Mismatch,Reupload new photo: http://aadhar-photoform.in,1
+no-reply@bsnl-cashback.in,BSNL ₹150 Cashback Reward,Claim now: http://bsnl-rewardform.in,1
+support@bankofbaroda-update.in,BoB Account Verification Required,Update now: http://baroda-verify.in,1
+hr@zoho-careercheck.in,Zoho Hiring – Final HR Interview,Upload resume: http://zoho-applynow.in,1
+win@hotstar-premiumgift.in,Hotstar Premium Free for 1 Month,Activate now: http://hotstar-giftclaim.in,1
+update@mobikwik-walletcredit.in,Mobikwik ₹250 Wallet Credit Activated,Apply credit: http://mobikwik-reward.in,1
+services@indigo-cancelrefund.in,Indigo Flight Cancelled – Refund Pending,Claim here: http://indigo-refundclaim.in,1
+security@paytm-upiblock.in,UPI Access Blocked – Immediate Action,Unblock now: http://paytm-unblockverify.in,1
+info@tataplay-rechargebonus.in,Tata Play Recharge Cashback Offer,Get ₹100 back: http://tataplay-offerform.in,1
+bonus@flipkart-festivaloffer.in,Flipkart Festival ₹500 Gift,Claim reward: http://flipkart-festivalbonus.in,1
+update@sbiatmverify.in,SBI ATM Verification Pending,Verify immediately: http://sbi-atmcheck.in,1
+claim@cred-refundwallet.in,CRED Cashback Refund Available,Redeem now: http://cred-rewardform.in,1
+support@kotakmahindra-pinreset.in,Kotak Debit Card PIN Expired,Reset now: http://kotak-pinverify.in,1
+help@byjus-freetrial.in,BYJU'S 14-Day Free Trial Activated,Start learning: http://byjus-freetrialform.in,1
+admin@aadhar-kycupdate.in,Aadhaar KYC Expiring,Update now: http://aadhar-kycverify.in,1
+no-reply@dream11-verifywinnings.in,"Dream11 ₹10,000 Winnings",Claim before expiry: http://dream11-claimform.in,1
+alert@canarabank-login.in,Canara Bank Login Alert,Secure account: http://canara-securelogin.in,1
+support@oyo-freevoucher.in,OYO Free Stay Voucher Available,Book now: http://oyo-freeroom.in,1
+joboffer@tcs-placemententry.in,TCS Online Interview Registration,Fill form: http://tcs-applynow.in,1
+help@swiggymealclaim.in,Swiggy Free Meal Worth ₹300,Redeem offer: http://swiggy-freevoucher.in,1
+service@pnb-accountsecure.in,Punjab National Bank Account Blocked,Reactivate here: http://pnb-verificationform.in,1
+recharge@jio-freeplan.in,Jio Free 3GB/Day Plan Activated,Confirm: http://jio-bonusplan.in,1
+feedback@amazon-feedbackgift.in,Amazon Feedback Reward ₹500,Fill form: http://amazon-surveygift.in,1
+hr@infosys-hiringteam.in,Infosys Off-Campus Drive – Final Call,Register now: http://infosys-careerentry.in,1
+reward@paytmmall-prize.in,Paytm Mall ₹5000 Shopping Voucher,Redeem now: http://paytmmall-reward.in,1
+support@icicibank-pinupdate.in,ICICI Debit Card PIN Update Required,Reset now: http://icici-pinverify.in,1
+gift@zomato-loyaltyprogram.in,Zomato Gold Access for Free,Join today: http://zomato-goldclaim.in,1
+alert@unionbank-update.in,Union Bank Login Suspicious,Secure now: http://unionbank-verify.in,1
+bonus@flipkart-diwali.in,Flipkart Diwali Bonus ₹1000,Claim here: http://flipkart-diwali-gift.in,1
+support@bajajfinance-loanoffer.in,"Pre-approved Loan ₹5,00,000",Avail now: http://bajaj-loanapply.in,1
+update@airtel-servicebonus.in,Airtel Bonus Recharge Worth ₹300,Activate now: http://airtel-bonusform.in,1
+info@railways-refundstatus.in,IRCTC Refund Processing Delay,Reclaim now: http://irctc-refundupdate.in,1
+hr@deloitte-careerverify.in,Deloitte Final Interview Confirmation,Confirm attendance: http://deloitte-hiringform.in,1
+reward@tanishq-freegift.in,Tanishq Gold Coin Reward,Redeem offer: http://tanishq-rewardform.in,1
+noreply@sbi-fastupdate.in,SBI KYC Verification Alert,Update details: http://sbi-kycupgrade.in,1
+support@netflix-autopay.in,Netflix AutoPay Failed,Fix issue: http://netflix-billingfix.in,1
+admin@axis-loginsecurity.in,Axis Bank Login Blocked,Reactivate now: http://axis-unblockform.in,1
+hr@capgemini-invite.in,Capgemini Placement Confirmation,Submit form: http://capgemini-finalform.in,1
+rewards@phonepecash.in,PhonePe Cashback of ₹1500 Pending,Claim it here: http://phonepe-getreward.in,1
+support@cleartrip-offer.in,ClearTrip Flat ₹1000 Off,Book today: http://cleartrip-promo.in,1
+alert@kotak-securelogin.in,Kotak Netbanking Access Suspended,Restore here: http://kotak-loginverify.in,1
+deals@meesho-dealgrab.in,Meesho Flash Sale Coupons Available,Grab now: http://meesho-limiteddeal.in,1
+info@mobikwik-gift.in,Mobikwik ₹200 Wallet Top-up,Activate reward: http://mobikwik-offerclaim.in,1
+job@wipro-careerform.in,Wipro Freshers Interview Entry,Register here: http://wipro-careercheck.in,1
+winner@dream11-bonus.in,Dream11 ₹500 Bonus Claimed,Withdraw now: http://dream11-withdraw.in,1
+verify@boi-netsecure.in,BOI Internet Banking Alert,Secure here: http://boi-verification.in,1
+feedback@swiggy-feedback.in,₹300 Swiggy Feedback Bonus,Fill now: http://swiggy-surveygift.in,1
+coupon@bigbasket-diwali.in,BigBasket Diwali Coupons,Redeem here: http://bigbasket-offers.in,1
+support@hdfcnetbank-alert.in,HDFC Login Failure,Fix login: http://hdfc-reactivate.in,1
+lottery@kaunbanegacrorepati.in,KBC Lottery Winner – Verify Now,Confirm identity: http://kbcwinner-confirm.in,1
+update@oyo-premiumoffer.in,OYO Premium Membership Free,Join today: http://oyo-premiumclaim.in,1
+rewards@paytmbank-prize.in,Paytm Bank Scratch & Win ₹5000,Play now: http://paytmbank-reward.in,1
+service@bsnl-bonusplan.in,BSNL Free Recharge Pack Added,Activate plan: http://bsnl-rechargebonus.in,1
+support@indianrailway-gift.in,Indian Railways ₹1000 Travel Voucher,Book tickets: http://railway-offers.in,1
+support@irctc-fastpass.in,IRCTC Tatkal Booster Offer,Confirm now: http://irctc-tatkalfast.in,1
+alert@canarabank-verify.in,Canara Bank Account Suspended,Verify identity: http://canarabank-check.in,1
+notice@aadhaar-updateportal.in,Aadhaar Verification Required,Update here: http://aadhaar-updatesecure.in,1
+noreply@lic-premiumoffer.in,LIC Premium Waiver Program,Enroll now: http://lic-premiumclaim.in,1
+offer@amazon-giftzone.in,Amazon Mega Gift ₹3000,Unlock offer: http://amazon-zonegift.in,1
+security@pnb-loginsecure.in,PNB Online Banking Alert,Take action: http://pnb-authcheck.in,1
+care@tneb-paymentalert.in,TNEB Bill AutoPay Failed,Pay securely: http://tneb-billportal.in,1
+reply@flipkart-bigdeal.in,Flipkart ₹999 Mystery Box,Open now: http://flipkart-surprise.in,1
+job@infosys-recruiter.in,Infosys HR Interview Round,Confirm attendance: http://infosys-confirm.in,1
+support@swiggy-bonusorder.in,Swiggy ₹100 Bonus Order,Place order now: http://swiggy-ordergift.in,1
+access@boi-authlogin.in,BOI Login Credentials Update,Update now: http://boi-securityfix.in,1
+card@hdfc-debitreward.in,HDFC Debit Card Cashback ₹1200,Activate now: http://hdfc-debitclaim.in,1
+welcome@oyo-freevoucher.in,OYO First Stay Free,Redeem voucher: http://oyo-firststay.in,1
+reward@zomato-feedback.in,Zomato Free Meal Survey ₹200,Fill survey: http://zomato-feedbackgift.in,1
+care@vi-billreminder.in,VI Bill Pending – Pay Now,Avoid fine: http://vi-billsecure.in,1
+user@dream11-weeklybonus.in,Dream11 Weekly Win ₹1000,Claim bonus: http://dream11-bonusclaim.in,1
+secure@airtel-authentication.in,Airtel KYC Expiry Alert,Update now: http://airtel-kycupgrade.in,1
+help@phonepe-winprize.in,PhonePe User ₹1500 Gift,Click to win: http://phonepe-prize.in,1
+account@axisbank-fraudalert.in,Axis Account Locked – Fraud Detected,Recover now: http://axis-recover.in,1
+recharge@bsnl-topupbonus.in,BSNL ₹100 Bonus Recharge,Get it here: http://bsnl-topupclaim.in,1
